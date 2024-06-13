@@ -1,0 +1,2 @@
+Mods:
+Added new version of immersive intelligence to fix IE manual disconnect on close

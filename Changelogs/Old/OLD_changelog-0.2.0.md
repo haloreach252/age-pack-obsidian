@@ -1,0 +1,13 @@
+Updated HBM Nuclear Tech Mod Reloaded
+Added fast leaf decay
+Added Industrial Renewal
+Added vanillafix
+Added flat colored blocks
+Added mobstages
+Changed Weather2 config to disable damage to blocks
+Changed exoticbirds config to lower egg spawn rates to reduce item clutter
+Changed HBM config to reduce structure spawn rate
+Added mobages.zs and made most techguns mobs spawn in certain ages to deal with insta-death
+Began work on questlines
+Updated Fureniku's Roads config to make paint cost less
+Updated FR config to make machines work faster
