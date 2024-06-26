@@ -3,6 +3,5 @@
 | -------- | ----------- |
 |          |             |
 ### Decor Mods
-| Mod Name | Use in pack |
-| -------- | ----------- |
-|          |             |
+Decocraft
+Rustic
