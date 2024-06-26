@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age Pack Info</title>
+</head>
+<body>
+    <h1>For now this just contains the mods in the pack to work better while im at work. In the future will contain links to the various obsidian pages</h1>
+
+    <h2>Mod List:</h2>
+    <ul id="modlist">
+    </ul>
+
+    <script>
+        let modlist = [
+            'Gregicality Multiblocks',
+            'GregTech CEU',
+            'NuclearCraft Overhauled',
+            'Trinity',
+            'Immersive Vehicles',
+            'Actually Additions',
+            'Actually Computers',
+            'Advanced Chimneys',
+            'Advanced Rocketry',
+            'Advanced Solar Materials',
+            'AE2 Stuff',
+            'AE2 UEL',
+            'AE2 Wireless Terminal',
+            'Animania',
+            'Antique Atlas',
+            'Aquaculture',
+            'Architecturecraft',
+            'ArmorPlus',
+            'Better P2P',
+            'Bibliocraft',
+            'Biomes O Plenty',
+            'Bountiful',
+            'Building Gadgets',
+            'ComputerCraft Tweaked',
+            'Cooking for Blockheads',
+            'Crafting Nether Star',
+            'Custom NPCs',
+            'Dark Utilities',
+            'Decocraft',
+            'Deep Mod Evolution',
+            'Dense Metals',
+            'Devtech (greg addon)',
+            'Dimensional Edibles',
+            'Draconic Evolution',
+            'Effortless Building',
+            'EnderIO',
+            'EnderIO Endergy',
+            'Ender Storage',
+            'Energy Control',
+            'Engineers Decor',
+            'Engineers Doors',
+            'Extended Crafting',
+            'Extra TAN',
+            'Extra Utilities',
+            'Farming for Blockheads',
+            'Floodlights',
+            'Furenikus Roads',
+            'Gas Conduits',
+            'Gauges and Switches',
+            'HBM Nuclear Tech',
+            'Immersive Cables',
+            'Immersive Engineering',
+            'Immersive Intelligence',
+            'Immersive Petroleum',
+            'Immersive Posts',
+            'Immersive Railroading',
+            'Immersive Technology',
+            'Industrial Renewal',
+            'Industrial Wires',
+            'Infinite Pollution Filter',
+            'Mekanism',
+            'More Furnaces',
+            'Natures Compass',
+            'Neeve\'s AE2 Extended Life Additions',
+            'Open Glider',
+            'Open Elevator',
+            'OpenComputers',
+            'OpenDisks',
+            'OpenFM',
+            'OpenPrinter',
+            'OpenScreens',
+            'OpenSecurity',
+            'Packaged Auto',
+            'Packaged EX Crafting',
+            'Pams Harvestcraft',
+            'Plethora Peripherals (CC Addon)',
+            'Pneumaticcraft',
+            'Pollutant Pump',
+            'Pollution of the Realms',
+            'Portality',
+            'Project Red',
+            'Railcraft',
+            'Redstone Arsenal',
+            'Rustic',
+            'SereneSeasons',
+            'Signpost',
+            'SimplyJetpacks 2',
+            'SNAD',
+            'Solar Flux Reborn',
+            'SFM',
+            'Sync',
+            'Techguns',
+            'Tesseract',
+            'Thermal Cultivation',
+            'Thermal Dynamics',
+            'Thermal Expansion',
+            'Thermal Foundation',
+            'Thermal Innovation',
+            'Thuts Elevators',
+            'Toolbelt',
+            'Torchmaster',
+            'Tough as Nails',
+            'Tough Expansion',
+            'Trash Cans',
+            'Weather2',
+            'Wireless Redstone',
+        ];
+
+        for (var i = 0; i < modlist.length; i++) {
+            modName = modlist[i];
+
+            docList = document.getElementById('modlist');
+
+            modListItem = document.createElement('ul');
+            modListItem.innerText = modName;
+
+            docList.appendChild(modListItem);
+        }
+    </script>
+</body>
+</html>
