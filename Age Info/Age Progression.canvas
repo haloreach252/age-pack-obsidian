@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"22e1dd45ba0ab88b","x":-360,"y":240,"width":447,"height":240,"type":"file","file":"AgeInfo/03 - MV & HV Age/MV & HV Age Overview.md"},
-		{"id":"7799890fac7d0bb2","x":-360,"y":-520,"width":440,"height":240,"type":"file","file":"AgeInfo/01 - Steam Age/Steam Age Overview.md"},
-		{"id":"5236e8c522fa79ec","x":-363,"y":-160,"width":447,"height":240,"type":"file","file":"AgeInfo/02 - LV Age/LV Age Overview.md"},
-		{"id":"8cb7de093dcd437c","x":160,"y":240,"width":440,"height":240,"type":"file","file":"AgeInfo/04b - Nuclear Age/Nuclear Age Overview.md"},
-		{"id":"f3947dbda59582ef","x":-880,"y":240,"width":440,"height":240,"type":"file","file":"AgeInfo/04a - Space Age/Space Age Overview.md"},
-		{"id":"83fd7ba68086c314","x":-122,"y":662,"width":419,"height":240,"type":"file","file":"AgeInfo/05b - Interstellar Age/Interstellar Age Overview.md"},
-		{"id":"c10273d82a90d006","x":-583,"y":662,"width":440,"height":240,"type":"file","file":"AgeInfo/05a - EV & IV Age/EV & IV Age Overview.md"},
-		{"id":"2a4fe5da1348b69e","x":-332,"y":1040,"width":420,"height":240,"type":"file","file":"AgeInfo/06 - LuV & ZPM Age/LuV & ZPM Age Overview.md"},
-		{"id":"78ec984e8464caf9","x":-345,"y":1480,"width":447,"height":227,"type":"file","file":"AgeInfo/07 - UV & UHV Age/UV & UHV Age Overview.md"}
+		{"id":"22e1dd45ba0ab88b","x":-360,"y":240,"width":447,"height":240,"type":"file","file":"Age Info/03 - MV & HV Age/MV & HV Age Overview.md"},
+		{"id":"7799890fac7d0bb2","x":-360,"y":-520,"width":440,"height":240,"type":"file","file":"Age Info/01 - Steam Age/Steam Age Overview.md"},
+		{"id":"5236e8c522fa79ec","x":-363,"y":-160,"width":447,"height":240,"type":"file","file":"Age Info/02 - LV Age/LV Age Overview.md"},
+		{"id":"8cb7de093dcd437c","x":160,"y":240,"width":440,"height":240,"type":"file","file":"Age Info/04b - Nuclear Age/Nuclear Age Overview.md"},
+		{"id":"f3947dbda59582ef","x":-880,"y":240,"width":440,"height":240,"type":"file","file":"Age Info/04a - Space Age/Space Age Overview.md"},
+		{"id":"83fd7ba68086c314","x":-122,"y":662,"width":419,"height":240,"type":"file","file":"Age Info/05b - Interstellar Age/Interstellar Age Overview.md"},
+		{"id":"c10273d82a90d006","x":-583,"y":662,"width":440,"height":240,"type":"file","file":"Age Info/05a - EV & IV Age/EV & IV Age Overview.md"},
+		{"id":"2a4fe5da1348b69e","x":-332,"y":1040,"width":420,"height":240,"type":"file","file":"Age Info/06 - LuV & ZPM Age/LuV & ZPM Age Overview.md"},
+		{"id":"78ec984e8464caf9","x":-345,"y":1480,"width":447,"height":227,"type":"file","file":"Age Info/07 - UV & UHV Age/UV & UHV Age Overview.md"}
 	],
 	"edges":[
 		{"id":"4774338fe0c67377","fromNode":"7799890fac7d0bb2","fromSide":"bottom","toNode":"5236e8c522fa79ec","toSide":"top"},

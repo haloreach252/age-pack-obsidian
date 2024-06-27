@@ -1,0 +1,307 @@
+This mod list includes all mods in the pack (including library mods and general util mods)
+
+- Gregicality Multiblocks
+- Gregtech CEU
+- Nuclearcraft: Overhauled
+- spark
+- Trinity
+- ULV Covers
+- \[Immersive Vehicles\] IAV Parts Pack
+- \[Immersive Vehicles/IV/MTS\] VEB Automobilwerke Schwikau Military/Civilian Tanks, Helicopters, Planes, and more!
+- Actually Additions
+- ActuallyComputers
+- Advanced Chimneys
+- Advanced Rocketry
+- Advanced Rocketry Tweaker (AR Tweaker)
+- Advanced Solar Materials
+- AE2 Stuff
+- AE2 Unofficial Extended Life
+- AE2 Wireless Terminal Library
+- AI Improvements
+- AlcatrazCore
+- Animania Base
+- Animania Cats & Dogs
+- Animania Extra Animals
+- Animania Farm
+- Antique Atlas
+- AppleSkin
+- Aquaculture 2
+- ArchitectureCraft - TridentMC Version
+- ArmorPlus
+- Atlas Extras
+- AttributeFix
+- AutoRegLib
+- Avaritia 1.1x
+- B.A.S.E
+- Baubles
+- BdLib
+- BetterP2P
+- Better Questing - Multiblock and Structure Integration (may remove)
+- Better Questing - RF Expansion (may remove)
+- Better Questing Unofficial (may remove)
+- BetterBedrockGen
+- BetterFps
+- Bibliocraft
+- Biomes O' Plenty
+- Bookshelf
+- Born in a Barn
+- Bountiful
+- Brandon's Core
+- Building Gadgets
+- C.M.A \[Immersive Vehicles/IV/MTS\] Citizens Military Aviation Trasport Pack
+- CB Multipart
+- CC: Tweaked
+- CensoredASM
+- Chameleon
+- Chest Transporter
+- Chisel
+- Client Tweaks
+- Clumps
+- CodeChicken Lib 1.8+
+- CoFH Core
+- CoFH World
+- Collective
+- ConnectedTexturesMod
+- ContentTweaker
+- Controlling
+- Cooking for Blockheads
+- CoroUtil
+- Crafting Tweaks Unofficial
+- CraftingNetherStar
+- CraftStudio API
+- CraftTweaker
+- CreativeCore
+- Cucumber Library
+- Custom NPCs
+- Dark Utilities
+- Decocraft
+- Deep Mob Evolution
+- Dense Metals
+- Devtech
+- Diet Hoppers
+- Difficulty Lock
+- Dimensional Edibles: Nomifactory Edition
+- Dirt2Path \[FORGE\]
+- Draconic Evolution
+- Dynamic Surroundings
+- Dynamic Trees
+- Dynamic Trees - Biomes O' Plenty
+- Dynamic Trees - Pam's Harvestcraft
+- Dynamic Trees - Quark
+- Dynamistics
+- Effortless Building
+- Ender IO
+- Ender IO Endergy
+- Ender Storage 1.8+
+- EnderCore
+- Energy Control
+- Engineer's Decor
+- Engineer's Doors
+- Exotic Birds
+- Extended Crafting: Nomifactory Edition
+- Extra TAN
+- Extra Utilities
+- Farming for Blockheads
+- Farseek
+- Fast Leaf Decay
+- Faster Ladder Climbing
+- FastFurance
+- FastWorkbench
+- Flan's Mod: Legacy (may remove)
+- Flat Colored Blocks - For Forge
+- FloodLights
+- FoamFix
+- ForgeEndertech
+- Forgiving Void
+- FPS Reducer
+- Framed Compacting Drawers
+- FTB Backups (Forge)
+- FTB Library (Forge) (Legacy)
+- FTB Quests (Forge)
+- FTB Utilities (Forge)
+- Fureniku's Roads
+- Fureniku's Roads Black Paint Plugin
+- Fureniku's Roads Blue Paint Plugin
+- Fureniku's Roads Brown Paint Plugin
+- Fureniku's Roads Cyan Paint Plugin
+- Fureniku's Roads Gray Paint Plugin
+- Fureniku's Roads Green Paint Plugin
+- Fureniku's Roads Light Blue Paint Plugin
+- Fureniku's Roads Lime Paint Plugin
+- Fureniku's Roads Magenta Paint Plugin
+- Fureniku's Roads Orange Paint Plugin
+- Fureniku's Roads Pink Paint Plugin
+- Fureniku's Roads Purple Paint Plugin
+- Fureniku's Roads Silver Paint Plugin
+- Gas Conduits
+- Gauges and Switches
+- Gregtech Drawers
+- Had Enough Items
+- HBM's Nuclear Tech Mod Reloaded (want to rewrite from the 1.7.10 version)
+- Hooked
+- I Know What I'm Doing (IKWID)
+- iChunUtil
+- Immersive Cables
+- Immersive Engineering
+- Immersive Intelligence
+- Immersive Petroleum
+- Immersive Posts
+- Immersive Railroading
+- Immersive Technology
+- Immersive Vehicles (Formerly Transport Simulator)
+- Immersive Vehicles (MTS/IV) - Official Content Pack
+- Immersive Vehicles Trin Part Pack
+- Industrial Renewal
+- Industrial Wires
+- Infinite Pollution Filter
+- InstantUnify
+- Inventory Bogo Sorter
+- Item Filters
+- JEI Utilities
+- JourneyMap
+- Just Enough Calculation
+- Just Enough Dimensions
+- Just Enough Energistics (JEE)
+- Just Enough Harvestcraft (JEHC)
+- Just Enough Petroleum
+- Just Enough Resources (JER)
+- KleeSlabs
+- KubeJS
+- LibrarianLib
+- LibVulpes
+- Lieutenant
+- Little Opener
+- LittleTiles
+- LLibrary
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Furniture
+- Macaw's Lights and Lamps
+- Macaw's Paintings
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Trapdoors
+- Macaw's Windows
+- McJtyLib
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
+- MekaTweaker
+- Mixin 0.7-0.8 Compatibility
+- MixinBooter
+- Mod Name Tooltip
+- Modern Weapons Pack for Flan's Mod (may remove)
+- ModTweaker
+- ModularUI
+- More Furnaces: Nomifactory Edition
+- More Libs
+- More Plates
+- Morpheus
+- Mouse Tweaks Unofficial
+- MrCrayfish's Furniture Mod
+- MyTJPCore
+- MTLib
+- MultiblockTweaker
+- Nature's Compass
+- NCO Java Legacy Lib
+- Neeve's AE2: Extended Life Additions
+- No Nether Portals
+- No Recipe Book
+- No Tree Punching
+- NotEnoughIDs
+- Open Glider
+- OpenBlocks Elevator
+- OpenComputers
+- OpenDisks
+- OpenFM
+- OpenPrinter
+- OpenScreens
+- OpenSecurity
+- Ore Excavation
+- Ore Tweaker
+- OreLib
+- p455w0rd's Library
+- PackagedAuto
+- PackagedExCrafting
+- PackMode
+- Pam's HarvestCraft
+- Patchouli
+- Placebo
+- Plethora Peripherals
+- Pneumaticcraft: Repressurized
+- Pollutant Pump
+- Pollution of the Realms
+- Portality
+- Project Intelligence
+- Project Red - Core
+- Project Red - Illumination
+- Project Red - Integration
+- PTRLib
+- Quark
+- Railcraft
+- RandomPatches (Forge)
+- RealBench
+- Redstone Arsenal
+- Redstone Flux
+- Resource Loader
+- Rustic
+- Serene Seasons
+- Serene Tweaks
+- SerializationIsBad
+- Shadowfacts' Forgelin
+- Signpost
+- Simple Parts Pack for Flan's Mod (may remove)
+- Simply Jetpacks 2
+- Snad
+- Solar Flux Reborn
+- Storage Drawers
+- Streams
+- Structurize
+- Super Factory Manager (SFM)
+- Super Sound Muffler: Revived
+- SuperMartijn642's Config Lib
+- SuperMartijn642's Core Lib
+- SwingThroughGrass
+- Sync
+- Techguns
+- Tesseract
+- The One Probe
+- TheDragonLib
+- Thermal Cultivation
+- Thermal Dynamics
+- Thermal Expansion
+- Thermal Foundation
+- Thermal Innovation
+- Thut's Elevators
+- ThutCore
+- TipTheScales
+- Toast Control
+- Tomb Many Graves 2
+- Too Many Efficiency Losses
+- Tool Belt
+- TOP Addons
+- Torch Slabs Mod
+- Torchmaster
+- Tough As Nails
+- Tough Expansion
+- Track API
+- Trash Cans
+- TrashSlot
+- UniDict
+- Universal Mod Core
+- Unlimited Chisel Works
+- UNU Civilian Vehicles \[MTS/IV\] \[IR\] (immersive cars trucks planes & trains)
+- UNU Military Vehicles \[MTS/IV\] \[IR\] (jeep truck trains)
+- UNU Parts Pack \[MTS\]
+- VelkyrieLib
+- WanionLib
+- WaterSkin
+- Weather, Storms & Tornadoes
+- Wireless Crafting Terminal
+- Wireless Redstone CBE
+- WorldEdit
+- Worley's Caves
+- WW2 Pack for Flan's Mod (may remove)
+- Xtones
+- Ye Olde Pack for Flan's Mod (may remove)

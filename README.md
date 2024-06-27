@@ -14,3 +14,7 @@ Currently the only people who will have access to push/pull are people working o
 ## Updating
 Whenever changes are made to the vault, please run "py makesite.py" in the root directory to build the github pages site before you push
 This allows the github pages site to be up to date with any new information
+
+Note: The script requires 2 pip packages (markdown and jinja2) to install, follow directions below (in the future I'll create a python env for the repo)
+markdown: pip install markdown
+jinja2: pip install jinja2
